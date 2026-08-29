@@ -8,3 +8,5 @@ Public support and privacy pages for **X3F Quick Viewer**, a macOS utility that 
 - English privacy policy: `en/privacy.html`
 
 This repository contains support-site files only. It does not contain the application source code or user photo files.
+
+Support email: [contact@windfromjapan.com](mailto:contact@windfromjapan.com)
