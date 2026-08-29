@@ -1,0 +1,35 @@
+name: Bug report
+about: Report a problem with X3F Quick Viewer
+labels: bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please do not attach private photographs publicly. A filename, camera model, and description are usually enough to begin.
+  - type: input
+    id: mac
+    attributes:
+      label: Mac model
+      placeholder: Mac mini M1, MacBook Air M3, etc.
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+    validations:
+      required: true
+  - type: input
+    id: camera
+    attributes:
+      label: SIGMA camera model / X3F generation
+      placeholder: dp1 Quattro, DP2 Merrill, SD15, etc.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Include whether Finder thumbnails, Space-bar Quick Look, or both are affected.
+    validations:
+      required: true
