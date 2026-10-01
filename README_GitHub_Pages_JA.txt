@@ -16,6 +16,18 @@ https://nao-dolphin.github.io/x3f-quick-viewer-support/en/
 英語プライバシー
 https://nao-dolphin.github.io/x3f-quick-viewer-support/en/privacy.html
 
+VIEWEMON 日本語サポート
+https://nao-dolphin.github.io/x3f-quick-viewer-support/viewemon/
+
+VIEWEMON 日本語プライバシー
+https://nao-dolphin.github.io/x3f-quick-viewer-support/viewemon/privacy.html
+
+VIEWEMON English Support
+https://nao-dolphin.github.io/x3f-quick-viewer-support/viewemon/en/
+
+VIEWEMON English Privacy Policy
+https://nao-dolphin.github.io/x3f-quick-viewer-support/viewemon/en/privacy.html
+
 公開方法:
 1. GitHubでPublicリポジトリ x3f-quick-viewer-support を作成
 2. この03_Support_Websiteフォルダ内のファイルを、リポジトリのルートへアップロード

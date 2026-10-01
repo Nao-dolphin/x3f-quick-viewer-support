@@ -9,4 +9,11 @@ Public support and privacy pages for **X3F Quick Viewer**, a macOS utility that 
 
 This repository contains support-site files only. It does not contain the application source code or user photo files.
 
+## VIEWEMON
+
+- Japanese support: `viewemon/index.html`
+- Japanese privacy policy: `viewemon/privacy.html`
+- English support: `viewemon/en/index.html`
+- English privacy policy: `viewemon/en/privacy.html`
+
 Support email: [contact@windfromjapan.com](mailto:contact@windfromjapan.com)
